@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi there 👋, I am Manasa Medepalli</h1>
+<h1 align="center">Hi there 👋, I am Manasa :)</h1>
 
 <p align="center">
     Hi! I’m a Computer Science graduate from the University of Southern California, passionate about building intelligent, scalable systems that solve real-world problems. My work spans LLM-powered applications, reinforcement learning-based recommendation engines, and full-stack development using tools like Python, FastAPI, Docker, and LangChain. I enjoy creating production-ready solutions that are both technically robust and user-focused, drawing from my experiences in backend infrastructure, cloud deployment, and applied machine learning.
