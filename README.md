@@ -63,10 +63,10 @@ Outside of engineering, I’m deeply committed to community and education. As a 
 
 <h2 align="center" id="contact">📫 Reach out to me on</h2>
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/nikitakodkany/">
+  <a target="_blank" href="https://www.linkedin.com/in/lakshmimanasam30/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:nikitahkodkany@gmail.com?subject=Hello%20Nikita%20from%20GitHub">
+<a href="mailto:mlmanasa.30@gmail.com?subject=Hello%20Manasa%20from%20GitHub">Email Me</a>
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
