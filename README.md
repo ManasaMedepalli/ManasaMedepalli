@@ -4,6 +4,8 @@
 <p align="center">
   <samp>
     Hi! I’m a Computer Science graduate from the University of Southern California, passionate about building intelligent, scalable systems that solve real-world problems. My work spans LLM-powered applications, reinforcement learning-based recommendation engines, and full-stack development using tools like Python, FastAPI, Docker, and LangChain. I enjoy creating production-ready solutions that are both technically robust and user-focused, drawing from my experiences in backend infrastructure, cloud deployment, and applied machine learning.
+  </samp>
+  <samp>
 Outside of engineering, I’m deeply committed to community and education. As a Microsoft TEALS volunteer, I teach Python fundamentals to high school students and help demystify technology for young learners. I’ve also served as a peer mentor, course producer, and orientation leader — experiences that fuel my love for teaching and guiding others. Beyond tech, I find joy in Indian classical music, painting, and creative storytelling, which shape the way I approach problem-solving with empathy and imagination.
   </samp>
 </p>
