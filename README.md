@@ -66,7 +66,7 @@ Outside of engineering, I’m deeply committed to community and education. As a 
   <a target="_blank" href="https://www.linkedin.com/in/lakshmimanasam30/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:mlmanasa.30@gmail.com?subject=Hello%20Manasa%20from%20GitHub">Email Me</a>
+<a href="mailto:mlmanasa.30@gmail.com?subject=Hello%20Manasa%20from%20GitHub">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
