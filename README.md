@@ -2,12 +2,11 @@
 <h1 align="center">Hi there 👋, I am Manasa Medepalli</h1>
 
 <p align="center">
-  <samp>
     Hi! I’m a Computer Science graduate from the University of Southern California, passionate about building intelligent, scalable systems that solve real-world problems. My work spans LLM-powered applications, reinforcement learning-based recommendation engines, and full-stack development using tools like Python, FastAPI, Docker, and LangChain. I enjoy creating production-ready solutions that are both technically robust and user-focused, drawing from my experiences in backend infrastructure, cloud deployment, and applied machine learning.
-  </samp>
-  <samp>
+</p>
+<p align="center">
 Outside of engineering, I’m deeply committed to community and education. As a Microsoft TEALS volunteer, I teach Python fundamentals to high school students and help demystify technology for young learners. I’ve also served as a peer mentor, course producer, and orientation leader — experiences that fuel my love for teaching and guiding others. Beyond tech, I find joy in Indian classical music, painting, and creative storytelling, which shape the way I approach problem-solving with empathy and imagination.
-  </samp>
+
 </p>
 
 <h2 align="center">💻 Tech Stack</h2>
@@ -71,17 +70,3 @@ Outside of engineering, I’m deeply committed to community and education. As a 
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<!--
-**ManasaMedepalli/ManasaMedepalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
