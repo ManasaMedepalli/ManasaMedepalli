@@ -1,10 +1,10 @@
 ## Hi there 👋
 <h1 align="center">Hi there 👋, I am Manasa Medepalli</h1>
-<h1 align="center">Hi there 👋, I am Nikita Kodkany</h1>
 
 <p align="center">
   <samp>
-    Hello! I am a computer science graduate from the University of Southern California with extensive experience in data science, machine learning, data engineering, and analysis. My expertise spans across diverse domains such as healthcare, automobile, education, and agriculture. I am passionate about leveraging data-driven solutions to solve complex problems and drive innovation. With a solid foundation in statistical models, deep learning, and hands-on project experience, I excel at transforming raw data into actionable insights. Let's connect and explore how we can harness the power of data to create impactful change! 
+    Hi! I’m a Computer Science graduate from the University of Southern California, passionate about building intelligent, scalable systems that solve real-world problems. My work spans LLM-powered applications, reinforcement learning-based recommendation engines, and full-stack development using tools like Python, FastAPI, Docker, and LangChain. I enjoy creating production-ready solutions that are both technically robust and user-focused, drawing from my experiences in backend infrastructure, cloud deployment, and applied machine learning.
+Outside of engineering, I’m deeply committed to community and education. As a Microsoft TEALS volunteer, I teach Python fundamentals to high school students and help demystify technology for young learners. I’ve also served as a peer mentor, course producer, and orientation leader — experiences that fuel my love for teaching and guiding others. Beyond tech, I find joy in Indian classical music, painting, and creative storytelling, which shape the way I approach problem-solving with empathy and imagination.
   </samp>
 </p>
 
